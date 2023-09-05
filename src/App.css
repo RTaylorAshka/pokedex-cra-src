@@ -1,0 +1,22 @@
+.App {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+  background-color: rgb(23, 161, 185);
+}
+
+p {
+  color: teal;
+}
+
+h1 {
+  color: rgb(165, 255, 165);
+}
+
+body {
+  background-color: rgb(50, 70, 63);
+}
